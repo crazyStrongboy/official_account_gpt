@@ -10,7 +10,12 @@
 ## 步骤
 
 ### 1. 一键部署
-todo
+```shell
+
+wget https://github.com/crazyStrongboy/official_account_gpt/releases/download/v0.0.1/official_account_gpt-linux-amd64.tar.gz
+tar -zxvf official_account_gpt-linux-amd64.tar.gz
+
+```
 
 ### 2. 运行命令
 
