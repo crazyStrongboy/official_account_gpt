@@ -10,13 +10,13 @@
 ## 步骤
 
 ### 1. 一键部署
-
+todo
 
 ### 2. 运行命令
 
-运行代码。使用以下命令运行代码：
-
-./offical_account_gpt  --wx_app_id=xx --wx_ori_id=yy --wx_token=zz --wx_aes_key=kk --token=tt
+```
+    ./offical_account_gpt  --wx_app_id=xx --wx_ori_id=yy --wx_token=zz --wx_aes_key=kk --token=tt
+```
 
 
 其中，`wx_app_id`、`wx_ori_id`、`wx_token`、`wx_aes_key` 分别为微信公众号的开发者ID、原始ID、令牌和消息加解密密钥，`token` 为 ChatGpt API token。
